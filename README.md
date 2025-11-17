@@ -18,13 +18,7 @@
   - `4_directorio_telefonico/directorio.cpp`: Directorio telefónico con búsqueda.
   - `5_calificaciones/calificaciones.cpp`: Gestión de calificaciones y cálculo de promedios.
 
-**Cómo compilar (rápido)**
-- Requisitos: tener `g++` (MinGW) accesible en `PATH` o un entorno compatible como WSL.
-- Compilación rápida en PowerShell (ejemplo para un programa):
 
-```powershell
-
-```
 
 - Script de compilación (recomendado): hay un `build_all.bat` y un `CMakeLists.txt` en la carpeta de los fuentes (si usas CMake). Usar `build_all.bat` desde PowerShell compilará todos los ejercicios y dejará los ejecutables en `bin`.
 
