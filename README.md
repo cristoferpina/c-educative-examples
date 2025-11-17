@@ -1,4 +1,4 @@
-# Proyecto C++ — Colección de ejercicios prácticos (Preparado para portafolio)
+# Proyecto C++ — Colección de ejercicios prácticos 
 
 **Descripción general**
 - **Objetivo**: Paquete de programas didácticos en C++ diseñados para mostrar dominio básico de la programación: estructuras de datos simples, interacción por consola, y operaciones con ficheros. Este repositorio está organizado para que puedas ejecutar cada ejercicio por separado y mostrar resultados en tu portafolio.
