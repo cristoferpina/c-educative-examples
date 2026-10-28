@@ -1,4 +1,16 @@
-# Proyecto C++ — Colección de ejercicios prácticos 
+<div align="center">
+
+# 💻 Ejercicios de C++
+
+Aplicaciones de consola para practicar programación y gestión de datos.
+
+**C++ · Consola · Aprendizaje**
+
+[Explorar código](https://github.com/cristoferpina/c-educative-examples) · [Reportar un problema](https://github.com/cristoferpina/c-educative-examples/issues)
+
+</div>
+
+---
 
 **Descripción general**
 - **Objetivo**: Paquete de programas didácticos en C++ diseñados para mostrar dominio básico de la programación: estructuras de datos simples, interacción por consola, y operaciones con ficheros. Este repositorio está organizado para que puedas ejecutar cada ejercicio por separado y mostrar resultados en tu portafolio.
@@ -10,8 +22,8 @@
 - Posibles extensiones que demuestran buenas prácticas: modularización en clases, persistencia en ficheros, uso de contenedores STL y manejo básico de errores.
 
 **Estructura del repositorio**
-- `markdawn/`: Documentación del proyecto (`proyecto.md`) y recursos gráficos (`img/`).
-- `programas/`: Código fuente organizado por ejercicios:
+- `proyecto_c++/markdawn/`: Documentación del proyecto (`proyecto.md`) y recursos gráficos (`img/`).
+- `proyecto_c++/programas/`: Código fuente organizado por ejercicios:
   - `1_productos/productos.cpp`: Gestor de productos (inventario simple).
   - `2_automoviles/automoviles.cpp`: Registro y visualización de automóviles.
   - `3_playlist/playlist.cpp`: Gestión básica de listas de reproducción.
@@ -37,9 +49,3 @@
 
 **Contacto / Autor**
 - Incluye tu nombre y enlace a tu portafolio/GitHub en la cabecera cuando subas el proyecto a tu repositorio público.
-
-**Siguientes pasos que puedo hacer por ti**
-- Añadir `CMakeLists.txt` y `build_all.bat` para compilar todo automáticamente (hecho en la carpeta de fuentes).
-- Refactorizar uno de los ejercicios a un estilo modular con clases y añadir tests.
-- Preparar imágenes y un ejemplo de ficha del proyecto lista para tu portafolio.
-
