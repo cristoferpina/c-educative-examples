@@ -4,7 +4,9 @@
 
 # Ejercicios de C++
 
-Aplicaciones de consola para practicar programación y gestión de datos.
+**Cinco problemas cotidianos. Una base en C++.**
+
+Inventarios, automóviles, música, contactos y calificaciones: ejercicios de consola que llevan los fundamentos de programación a casos concretos.
 
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge" />
 <img alt="Consola" src="https://img.shields.io/badge/Consola-1D4ED8?style=for-the-badge" />
@@ -15,6 +17,17 @@ Aplicaciones de consola para practicar programación y gestión de datos.
 [Código fuente](https://github.com/cristoferpina/c-educative-examples) &nbsp; / &nbsp; [Incidencias](https://github.com/cristoferpina/c-educative-examples/issues) &nbsp; / &nbsp; [Perfil](https://github.com/cristoferpina)
 
 </div>
+
+## Una mirada al proyecto
+
+| Qué encontrarás | Por qué explorarlo |
+| --- | --- |
+| Cinco problemas cotidianos. Una base en C++. | Inventarios, automóviles, música, contactos y calificaciones: ejercicios de consola que llevan los fundamentos de programación a casos concretos. |
+| Trabajo de desarrollo | Entrada y salida de datos, organización de ejercicios y gestión de información desde consola. |
+
+**[Explora los ejercicios →](proyecto_c%2B%2B/)**
+
+
 
 ---
 
